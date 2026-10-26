@@ -1,0 +1,12 @@
+﻿# Visual Studio 本地缓存与个人设置
+.vs/
+*.user
+*.suo
+
+# 本地环境变量与密钥配置
+.env
+.env.*
+!.env.example
+
+# Visual Studio CMake build output
+out/

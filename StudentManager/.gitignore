@@ -1,0 +1,7 @@
+﻿.vs/
+bin/
+obj/
+*.user
+students.txt
+students.txt.tmp
+students.txt.bak

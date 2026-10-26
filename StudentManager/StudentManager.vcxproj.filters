@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup><Filter Include="源文件"><UniqueIdentifier>{5E8D526D-B3D1-446F-9E07-2B27759F1907}</UniqueIdentifier></Filter><Filter Include="头文件"><UniqueIdentifier>{58AD9975-A01B-4864-ABEC-05E3D60BA220}</UniqueIdentifier></Filter></ItemGroup>
+  <ItemGroup><ClCompile Include="src\main.cpp"><Filter>源文件</Filter></ClCompile><ClCompile Include="src\StudentStore.cpp"><Filter>源文件</Filter></ClCompile><ClCompile Include="src\ConsoleApp.cpp"><Filter>源文件</Filter></ClCompile></ItemGroup>
+  <ItemGroup><ClInclude Include="src\Student.h"><Filter>头文件</Filter></ClInclude><ClInclude Include="src\StudentStore.h"><Filter>头文件</Filter></ClInclude><ClInclude Include="src\ConsoleApp.h"><Filter>头文件</Filter></ClInclude></ItemGroup>
+</Project>
